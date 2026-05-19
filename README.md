@@ -1,6 +1,6 @@
 # ZK-resources
 
-Curated list of ZK security and learning resources. Quality > quantity.
+Curated list of ZK security and learning resources. Less is more.
 
 ---
 
@@ -10,6 +10,7 @@ Curated list of ZK security and learning resources. Quality > quantity.
 - [ZK Whiteboard Sessions (ZK Hack)](https://zkhack.dev/whiteboard/)
 - [floatingpragma - awesome ZK proofs (math fundamentals)](https://floatingpragma.io/awesome-zk-proofs/)
 - [0xluk3.tech - math explained in simple terms](https://www.luk3.tech/blog?tag=math)
+- [RareSkills ZK Book](https://rareskills.io/zk-book)
 
 ---
 
