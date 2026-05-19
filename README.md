@@ -1,6 +1,6 @@
 # ZK-resources
 
-Curated list of ZK security and learning resources. Less is more.
+Curated list of ZK security and learning resources. 
 
 ---
 
